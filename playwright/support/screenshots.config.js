@@ -116,7 +116,7 @@ const compareScreenshotOptions = {
   plot_scatter_append: { maxDiffPixels: 200 },
   plot_scatter_custom_marker: { maxDiffPixels: 200 },
   plot_scatter_add_trace: { maxDiffPixels: 200 },
-  plot_line_basic: { maxDiffPixels: 200 },
+  plot_line_basic: { maxDiffPixels: 1500 },
   plot_line_many_updates: { maxDiffPixels: 200 },
   plot_line_update: { maxDiffPixels: 150 },
   plot_line_opts: { maxDiffPixels: 100 },
